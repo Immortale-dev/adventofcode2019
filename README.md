@@ -1,3 +1,4 @@
+
 # Advent Of Code 2019
 
 ## Days table: 
@@ -5,7 +6,7 @@
 
 |Day|Lang|Comment|Done|
 |--|--|--|--|
-|1 |  |  |  |
+|1 |C++|`./a.exe < input.txt`|:heavy_check_mark:|
 |2 |  |  |  |
 |3 |  |  |  |
 |4 |  |  |  |
