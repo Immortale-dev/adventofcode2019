@@ -1,4 +1,5 @@
 
+
 # Advent Of Code 2019
 
 ## Days table: 
@@ -6,8 +7,8 @@
 
 |Day|Lang|Comment|Done|
 |--|--|--|--|
-|1 |C++|`./a.exe < input.txt`|:heavy_check_mark:|
-|2 |  |  |  |
+|1 |C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
+|2 |C++|Change `COMPARE` with your input for **second** star, build and run `./a.exe < input.txt`|:heavy_check_mark:|
 |3 |  |  |  |
 |4 |  |  |  |
 |5 |  |  |  |
