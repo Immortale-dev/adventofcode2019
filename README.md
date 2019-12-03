@@ -9,7 +9,7 @@
 |--|--|--|--|
 |1 |C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
 |2 |C++|Change `COMPARE` with your input for **second** star, build and run `./a.exe < input.txt`|:heavy_check_mark:|
-|3 |  |  |  |
+|3 |JS|**input.txt** should exists. Run `node index`|:heavy_check_mark:|
 |4 |  |  |  |
 |5 |  |  |  |
 |6 |  |  |  |
