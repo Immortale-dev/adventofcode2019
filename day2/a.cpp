@@ -12,7 +12,7 @@ int run(int noun, int verb)
     cp[1] = noun;
     cp[2] = verb;
     for(int i=0;i<cp.size();i+=4){
-        int op = arr[i];
+        int op = cp[i];
         
         if(op == 99)
             break;
