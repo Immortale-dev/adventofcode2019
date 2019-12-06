@@ -12,7 +12,7 @@
 |3 |JS|**input.txt** should exists. Run `node index`|:heavy_check_mark:|
 |4 |C++|Build, run and enter range separated by **space** character|:heavy_check_mark:|
 |5 |C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
-|6 |  |  |  |
+|6 |C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
 |7 |  |  |  |
 |8 |  |  |  |
 |9 |  |  |  |
