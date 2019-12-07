@@ -13,7 +13,7 @@
 |4 |C++|Build, run and enter range separated by **space** character|:heavy_check_mark:|
 |5 |C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
 |6 |C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
-|7 |  |  |  |
+|7 |C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
 |8 |  |  |  |
 |9 |  |  |  |
 |10|  |  |  |
