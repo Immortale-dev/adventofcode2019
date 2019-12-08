@@ -14,7 +14,7 @@
 |5 |C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
 |6 |C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
 |7 |C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
-|8 |  |  |  |
+|8 |C++|Build, change `W` and `H` corresponding to your image dimensions (if it is different) and run `./a.exe < input.txt`|:heavy_check_mark:|
 |9 |  |  |  |
 |10|  |  |  |
 |11|  |  |  |
