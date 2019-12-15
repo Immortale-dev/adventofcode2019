@@ -21,7 +21,7 @@
 |12|C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
 |13|C++|Build and run `./a.exe < input.txt`. If you would like to change animation speed, just change the ANIMATE_STEP value|:heavy_check_mark:|
 |14|C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
-|15|  |  |  |
+|15|C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
 |16|  |  |  |
 |17|  |  |  |
 |18|  |  |  |
