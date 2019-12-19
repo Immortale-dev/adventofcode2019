@@ -24,7 +24,7 @@
 |15|C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
 |16|C++|Build and run `./a.exe < input.txt`. Notice, second part will take some time to return the result. It takes near 2 minutes|:heavy_check_mark:|
 |17|C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
-|18|  |  |  |
+|18|C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
 |19|  |  |  |
 |20|  |  |  |
 |21|  |  |  |
