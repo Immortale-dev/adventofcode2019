@@ -52,7 +52,7 @@ int main()
     string line;
     while(getline(cin, line)){
         stringstream ss;
-        ss << comm;
+        ss << line;
         string s;
         ss >> s;
         if(s == "deal"){
@@ -81,7 +81,16 @@ int main()
     }
     
     for(auto &comm : commands){
-        
+        switch(comm.first){
+            case 0:
+                deal_into_new_stack();
+                break;
+            case 1:
+                cut_cards(comm.second);
+                break;
+            case 2:
+                deal_with_increment(comm.second);
+        }
     }
     
     //print();
