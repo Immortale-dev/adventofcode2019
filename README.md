@@ -28,7 +28,7 @@
 |19|C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
 |20|C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
 |21|C++|Build and run `./a.exe < input.txt`|:heavy_check_mark:|
-|22|  |  |  |
+|22|C++|Build and run `./a.exe < input.txt`. So far only first part|:heavy_check_mark:|
 |23|  |  |  |
 |24|  |  |  |
 |25|  |  |  |
